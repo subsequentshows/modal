@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACH,gBAAgB,EAAE,IAAI;CACvB;;AAED,MAAM,EAAE,SAAS,EAAE,MAAM;EACvB,AAAA,UAAU;EACV,aAAa;EACb,aAAa;EACb,aAAa;EACb,aAAa;EACb,cAAc,CAAC;IACb,SAAS,EAAE,MAAM;GAClB",
+    "sources": [
+        "management-team.scss"
+    ],
+    "names": [],
+    "file": "management-team.css"
+}
